@@ -1,0 +1,6 @@
+name: DiscordStream
+version: 1.0
+main: me.appztr4ckt.discordstream.DiscordStream
+api-version: 1.5.2
+description: Discord Chat Bridge for MC 1.5.2
+author: Appztr4ckt

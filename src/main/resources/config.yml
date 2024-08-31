@@ -1,0 +1,8 @@
+discord:
+  webhook_url: "https://discord.com/api/webhooks/1279549822289842266/VG8769EhIOuA5V8_EGO7bO8qKsoV26uMkzs4HcmJIwnI9Krfqe9IDk1Vej9bv_jRtGLN"
+
+messages:
+  format: "%player%: %message%"
+  join_message_format: "### [+] %player% joined the Game"
+  leave_message_format: "### [-] %player% left the Game"
+  mention_replacement: "**＠**"
